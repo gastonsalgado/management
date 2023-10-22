@@ -8,9 +8,9 @@ variable "org_name" {
   description = "The name of the Organization."
 }
 
-variable "tenant_name" {
+variable "tier_name" {
   type        = string
-  description = "The name of the Tenant."
+  description = "The name of the Tier."
 }
 
 variable "read_only_members" {
