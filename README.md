@@ -1,2 +1,1 @@
-# management
-GS Management
+# GS Management
